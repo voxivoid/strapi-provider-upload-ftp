@@ -30,8 +30,7 @@
   "license": "MIT",
   "homepage": "https://github.com/voxivoid/strapi-provider-upload-ftp#readme",
   "dependencies": {
-    "ftp": "^0.3.10",
-    "request": "^2.88.0"
+    "ftp": "^0.3.10"
   },
   "devDependencies": {
     "eslint": "^5.3.0",
